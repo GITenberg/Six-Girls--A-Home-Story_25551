@@ -1,0 +1,36 @@
+_repo: Six-Girls--A-Home-Story_25551
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Merrill, Frank T.
+    aliases:
+    - Merrill, F. T.
+    - Merrill, Frank Thayer
+    birthdate: 1848
+    gutenberg_agent_id: '6202'
+    url: http://www.gutenberg.org/2009/agents/6202
+covers:
+- cover_type: archival
+  image_path: 25551-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Irving, Fannie Belle
+    alias: Irving, Fanny Belle
+    gutenberg_agent_id: '31417'
+    url: http://www.gutenberg.org/2009/agents/31417
+description: ''
+gutenberg_issued: '2008-05-21'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25551'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Girls -- Juvenile fiction'
+- !lcsh 'Sisters -- Juvenile fiction'
+- !lcc 'PZ'
+- !lcsh 'Family life -- Juvenile fiction'
+title: 'Six Girls: A Home Story'
+url: http://www.gutenberg.org/ebooks/25551
