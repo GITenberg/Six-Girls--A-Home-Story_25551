@@ -19,6 +19,8 @@ creator:
     gutenberg_agent_id: '31417'
     url: http://www.gutenberg.org/2009/agents/31417
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/25551#Six-Girls--A-Home-Story
 gutenberg_issued: '2008-05-21'
 gutenberg_type: Text
 identifiers:
